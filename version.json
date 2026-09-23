@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.4",
-    "url":  "https://github.com/smile11041103/SieuAm-Release/releases/download/v1.0.4/SieuAm_Setup_1.0.4.exe",
-    "sha256":  "6F5C1A3B1D1B46F91321AACF09DE40CFB139CDD6B28BDBEF7ECDB46E84812A5D",
+    "version":  "1.0.5",
+    "url":  "https://github.com/IT-Ykao/SieuAm-Release/releases/download/v1.0.5/SieuAm_Setup_1.0.5.exe",
+    "sha256":  "951E848F08EA540A1F6E5374AF853C9BF3A0075FA34DC99BAB39C7B3087E8FF7",
     "mandatory":  false,
-    "notes":  "SieuAm 1.0.4"
+    "notes":  "SieuAm 1.0.5"
 }
